@@ -1,3 +1,6 @@
 [submodule "Lap-3-Project-Server"]
 	path = Lap-3-Project-Server
 	url = https://github.com/Babole/Lap-3-Project-Server
+[submodule "Lap-3-Project-Client"]
+	path = Lap-3-Project-Client
+	url = https://github.com/bradneve/Lap-3-Project-Client
